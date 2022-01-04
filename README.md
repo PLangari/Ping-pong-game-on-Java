@@ -8,7 +8,7 @@ This is a ping-pong game implemented using Java and ACM graphics program, in the
 
 A GIF of the gameplay is shown below:
 <p align="center">
-    <img src="ppGame.gif" width="800" height="480"/>
+    <img src="game.gif" width="800" height="480"/>
 </p>
 
 In this ping-pong game with a computer (Agent), the user moves their paddle with the cursor and can control the game's difficulty by adjusting the time lag and the agent's response time lag. The trajectory of the ball can be shown, and the user can reset the game by clearing the scores. 
